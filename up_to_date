@@ -3,4 +3,3 @@ git clone "repository"
 git status
 git commit -m "message"
 git push
-git pull
